@@ -4,12 +4,13 @@ layout: default
 
 # Workshop Description
 The field of data science has experienced tremendous growth in recent years, revolutionizing various domains by leveraging the abundance of digital information. To continue harnessing the power of data science for societal betterment, it is crucial to understand its current applications.
+
 Join this workshop to explore the history and motivations behind data science. Discover the key factors that determine the suitability of a problem for data science solutions. Delve into a diverse range of data science applications, including outcome prediction, optimization, and output generation. Through interactive activities, you will gain hands-on experience and build confidence in the subject matter. By the end of the workshop, you will have a comprehensive understanding of contemporary data science applications and the necessary background to generate your own ideas for potential applications.
 
 ## About the Instructor
 ![Julia Olivieri](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-Julia Olivieri, Assistant Professor of Computer Science at the University of the Pacific. Her research lies at the intersection of computer science, biology, and statistics. Specifically, she develops algorithms to perform large-scale, rigorous analysis of RNA sequencing data. In 2022, Julia graduated with my PhD from Stanford University’s Institute for Computational and Mathematical Engineering with a thesis on splicing analysis in single-cell RNA sequencing data.
+A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Science at the University of the Pacific. Her research lies at the intersection of computer science, biology, and statistics, where she develops systems for large-scale analysis of RNA sequences. Specifically, she develops algorithms to perform large-scale, rigorous analysis of RNA sequencing data. Julia is particularly passionate about using data science to improve our world and engaging underrepresented groups in STEM fields.
 
 # Workshop Materials
 
@@ -20,7 +21,7 @@ Julia Olivieri, Assistant Professor of Computer Science at the University of the
 ## Schedule
 #### Friday July 28 <!--[[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/AkpiSzqyUvzlQZdslmzvElXjFpS2fvteI50BemyZFcA-D3mdocRsoy1WJdkoysOh.cEQOPM8XKS_kPBBQ?startTime=1660592689000)]-->
 - Module 1 <!--(1:00-2:00 PM)-->
-  - What is data science?
+  What is data science?
     - Definition and history
     - How data science algorithms work
     - Common examples of data science in our daily lives
