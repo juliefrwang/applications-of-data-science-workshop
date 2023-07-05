@@ -20,13 +20,13 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
 
 ## Schedule
 #### Friday July 28 <!--[[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/AkpiSzqyUvzlQZdslmzvElXjFpS2fvteI50BemyZFcA-D3mdocRsoy1WJdkoysOh.cEQOPM8XKS_kPBBQ?startTime=1660592689000)]-->
-- __Module 1__ <!--(1:00-2:00 PM)-->
+- __Module 1:__ <!--(1:00-2:00 PM)-->
   What is data science?
     - Definition and history
     - How data science algorithms work
     - Common examples of data science in our daily lives
 
-- __Module 2__ <!--(2:00-3:00 PM)-->
+- __Module 2:__ <!--(2:00-3:00 PM)-->
   What makes an application suitable for data science?
     - Quantifiability
     - Data availability
@@ -34,7 +34,7 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
     - Predictability
     - Understanding the impact
 
-- __Module 3__ <!--(3:00-4:00 PM)-->
+- __Module 3:__ <!--(3:00-4:00 PM)-->
   Prediction: The art of forecasting
     - Overview of prediction algorithms, from linear regression to neural networks
     - Examples including disease susceptibility prediction and product recommendation
@@ -42,17 +42,17 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
   <!-- - [Jupyter notebook](https://nbviewer.org/urls/dl.dropbox.com/s/8f06s0oetf5utxd/ICME%20Data%20Privacy%20%26%20Ethics%20Course.ipynb) -->
   
 #### Friday August 4 <!--[[slides](/docs/day2-dp-transparency-regulation.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/Zq3mqcYu1on_zbCgv8uOjdB6ajBcM76GjH1svFK25JgC4vXuLG3NeU7HTiWverBN.aBh9JBlYnp4uCd-B?startTime=1660679030000)]-->
-- __Module 4__ <!--(1:00-2:00 PM)-->
+- __Module 4:__ <!--(1:00-2:00 PM)-->
   Optimization: Navigating constraints and trade-offs
     - Overview of optimization techniques, including integer and linear programming
     - Examples including school district assignment and rideshare driver/passenger matching
 
-- __Module 5__ <!--(2:00-3:00 PM)-->
+- __Module 5:__ <!--(2:00-3:00 PM)-->
   Generation: Creating novel content with algorithms
     - The new frontier: how content generation algorithms are changing the world
     - Examples including text and image generation
 
-- __Module 6__ <!--(3:00-4:00 PM)-->
+- __Module 6:__ <!--(3:00-4:00 PM)-->
   Where do we go from here?
     - Review of concepts
     - Brainstorming new potential applications of data science
