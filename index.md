@@ -16,8 +16,8 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
 
 ## Pre-workshop Checklist
 1. You should have received a welcome email with the Zoom link and password. Please email us if you haven’t.
-2. All course materials will be uploaded to this [Github repository](https://github.com/juliaolivieri/SWS06-Applications-of-Data-Science).
-3. Sign up for the class Piazza through this [link](https://piazza.com/stanford/summer2023/icmesum06/info). Piazza is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than asking questions in the Zoom chat or emailing the teaching staff, We encourage you to post your questions on Piazza.
+2. All course materials will be uploaded to this __[Github repository](https://github.com/juliaolivieri/SWS06-Applications-of-Data-Science)__.
+3. Sign up for the class Piazza through this __[link](https://piazza.com/stanford/summer2023/icmesum06/info)__. Piazza is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than asking questions in the Zoom chat or emailing the teaching staff, We encourage you to post your questions on Piazza.
 
 ## Schedule
 #### Friday July 28 <!--[[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/AkpiSzqyUvzlQZdslmzvElXjFpS2fvteI50BemyZFcA-D3mdocRsoy1WJdkoysOh.cEQOPM8XKS_kPBBQ?startTime=1660592689000)]-->
