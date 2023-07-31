@@ -20,7 +20,7 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
 3. Sign up for the class __[Piazza](https://piazza.com/stanford/summer2023/icmesws06)__ through the link with access code __flqarqvmhgm__. Piazza is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than asking questions in the Zoom chat or emailing the teaching staff, We encourage you to post your questions on Piazza.
 
 ## Schedule
-#### Friday July 28 <!--[[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/AkpiSzqyUvzlQZdslmzvElXjFpS2fvteI50BemyZFcA-D3mdocRsoy1WJdkoysOh.cEQOPM8XKS_kPBBQ?startTime=1660592689000)]-->
+#### Friday July 28 [[Zoom recording first 2.5 hrs](https://stanford.zoom.us/rec/share/9PprHzZ9Ye5ifFT5LBk8l1Oqa20CmC_ZLcMiUueD-9zf8CxmLSKkucvmF5Gv_shU.YHMtMldvXMNfl71Y?startTime=1690573210000)] [[last 30 mins](https://stanford.zoom.us/rec/share/9PprHzZ9Ye5ifFT5LBk8l1Oqa20CmC_ZLcMiUueD-9zf8CxmLSKkucvmF5Gv_shU.YHMtMldvXMNfl71Y?startTime=1690583249000)]<!--[[slides](/docs/day1-digital-exhaust-and-ml.pdf)] -->
 - __Module 1:__ <!--(1:00-2:00 PM)-->
   What is data science?
     - Definition and history
