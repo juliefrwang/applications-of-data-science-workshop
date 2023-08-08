@@ -42,7 +42,7 @@ A recent PhD from ICME, Julia Olivieri is an Assistant Professor of Computer Sci
 
   <!-- - [Jupyter notebook](https://nbviewer.org/urls/dl.dropbox.com/s/8f06s0oetf5utxd/ICME%20Data%20Privacy%20%26%20Ethics%20Course.ipynb) -->
   
-#### Friday August 4 <!--[[slides](/docs/day2-dp-transparency-regulation.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/Zq3mqcYu1on_zbCgv8uOjdB6ajBcM76GjH1svFK25JgC4vXuLG3NeU7HTiWverBN.aBh9JBlYnp4uCd-B?startTime=1660679030000)]-->
+#### Friday August 4 [[Zoom recording](https://stanford.zoom.us/rec/share/rOKVW0F8XiKS5mbppFE_MkqXJFRo0gsuiZTw-2yCODGsWTDPVz2HdQDqxSPB9kc-.2Z7immxEfjPwhssc?startTime=1691178227000)]
 - __Module 4:__ <!--(1:00-2:00 PM)-->
   Optimization: Navigating constraints and trade-offs
     - Overview of optimization techniques, including integer and linear programming
